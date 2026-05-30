@@ -1,0 +1,10 @@
+<?php include "inc/header.php" ?>
+      <div class="text-center" style="margin-top: 2rem;">
+        <h1 class="display-1">Hashmi & Co</h1>
+      </div>
+
+      <div class="container-sm" style="max-width: 700px; padding: 1rem; margin-top: 2rem;">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut repellat, consequatur commodi illum minima ea maiores sapiente modi dolorem rem temporibus animi. Inventore quam asperiores voluptate provident in corrupti amet numquam doloribus, voluptatibus nesciunt hic velit fugit placeat natus veritatis sed, ipsa iure voluptatem perferendis reiciendis odio eius nam? Eos, accusamus explicabo, labore asperiores dolor atque sapiente perferendis aspernatur numquam nisi officia illum? Ratione numquam iure officia quasi voluptatem repellat obcaecati quidem ad maxime voluptas earum excepturi distinctio, autem aliquid sint quaerat rerum vel. Modi quod in laboriosam eligendi. Saepe nesciunt tempore hic? Corrupti itaque blanditiis ab aperiam facere nam.</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut repellat, consequatur commodi illum minima ea maiores sapiente modi dolorem rem temporibus animi. Inventore quam asperiores voluptate provident in corrupti amet numquam doloribus, voluptatibus nesciunt hic velit fugit placeat natus veritatis sed, ipsa iure voluptatem perferendis reiciendis odio eius nam? Eos, accusamus explicabo, labore asperiores dolor atque sapiente perferendis aspernatur numquam nisi officia illum? Ratione numquam iure officia quasi voluptatem repellat obcaecati quidem ad maxime voluptas earum excepturi distinctio, autem aliquid sint quaerat rerum vel. Modi quod in laboriosam eligendi. Saepe nesciunt tempore hic? Corrupti itaque blanditiis ab aperiam facere nam.</p>
+      </div>
+<?php include "inc/footer.php" ?>
